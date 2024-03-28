@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">jc.tools.pub.security</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">CnByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQVUJfS0VZID0gIlBVQkxJQyI7Cgpwcml2YXRl
+IHN0YXRpYyBmaW5hbCBTdHJpbmcgU1NIX1JTQSA9ICJzc2gtcnNhIjsKLy9wcml2YXRlIHN0YXRp
+YyBmaW5hbCBTdHJpbmcgU1NIX1JTQSA9ICJyc2Etc2hhMi0yNTYiOwoJCQpwcml2YXRlIHN0YXRp
+YyBTdHJpbmcgY29udmVydFRvUlNBS2V5KEtleSBrZXksIFN0cmluZyB0eXBlKSB0aHJvd3MgSU9F
+eGNlcHRpb24gewoKCUJhc2U2NC5FbmNvZGVyIGVuY29kZXIgPSBCYXNlNjQuZ2V0RW5jb2Rlcigp
+OwoJCglTdHJpbmdXcml0ZXIgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpOwoJd3JpdGVyLndy
+aXRlKCItLS0tLUJFR0lOIFJTQSAiICsgdHlwZSArIiBLRVktLS0tLVxuIik7Cgl3cml0ZXIud3Jp
+dGUoZW5jb2Rlci5lbmNvZGVUb1N0cmluZyhrZXkuZ2V0RW5jb2RlZCgpKSk7Cgl3cml0ZXIud3Jp
+dGUoIlxuLS0tLS1FTkQgUlNBICIgKyB0eXBlICsgIiBLRVktLS0tLVxuIik7Cgl3cml0ZXIuY2xv
+c2UoKTsKCQoJcmV0dXJuIHdyaXRlci50b1N0cmluZygpOwp9Cgpwcml2YXRlIHN0YXRpYyBTdHJp
+bmcgY29udmVydFRvT3BlblNTSFB1YmtleShSU0FQdWJsaWNLZXkga2V5LCBTdHJpbmcgaWQpIHRo
+cm93cyBJT0V4Y2VwdGlvbiB7CgoJQmFzZTY0LkVuY29kZXIgZW5jb2RlciA9IEJhc2U2NC5nZXRF
+bmNvZGVyKCk7CgkKCVN0cmluZ1dyaXRlciB3cml0ZXIgPSBuZXcgU3RyaW5nV3JpdGVyKCk7CgkK
+CS8vU3RyaW5nIGJhc2U2NFB1YktleSA9IGVuY29kZXIuZW5jb2RlVG9TdHJpbmcoa2V5LmdldEVu
+Y29kZWQoKSk7CiAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYnl0ZU9zID0gbmV3IEJ5dGVBcnJh
+eU91dHB1dFN0cmVhbSgpOwogICAgRGF0YU91dHB1dFN0cmVhbSBkb3MgPSBuZXcgRGF0YU91dHB1
+dFN0cmVhbShieXRlT3MpOwogICAgZG9zLndyaXRlSW50KFNTSF9SU0EuZ2V0Qnl0ZXMoKS5sZW5n
+dGgpOwogICAgZG9zLndyaXRlKFNTSF9SU0EuZ2V0Qnl0ZXMoKSk7CiAgICBkb3Mud3JpdGVJbnQo
+a2V5LmdldFB1YmxpY0V4cG9uZW50KCkudG9CeXRlQXJyYXkoKS5sZW5ndGgpOwogICAgZG9zLndy
+aXRlKGtleS5nZXRQdWJsaWNFeHBvbmVudCgpLnRvQnl0ZUFycmF5KCkpOwogICAgZG9zLndyaXRl
+SW50KGtleS5nZXRNb2R1bHVzKCkudG9CeXRlQXJyYXkoKS5sZW5ndGgpOwogICAgZG9zLndyaXRl
+KGtleS5nZXRNb2R1bHVzKCkudG9CeXRlQXJyYXkoKSk7CiAgICBTdHJpbmcgcHVibGljS2V5RW5j
+b2RlZCA9IG5ldyBTdHJpbmcoZW5jb2Rlci5lbmNvZGVUb1N0cmluZyhieXRlT3MudG9CeXRlQXJy
+YXkoKSkpOwogICAgCiAgICBTdHJpbmcga2V5U3RyID0gIFNTSF9SU0EgKyAiICIgKyBwdWJsaWNL
+ZXlFbmNvZGVkICsgIiAiOwogICAgd3JpdGVyLndyaXRlKGtleVN0cik7CQkKCXdyaXRlci5jbG9z
+ZSgpOwoJCglyZXR1cm4gd3JpdGVyLnRvU3RyaW5nKCk7Cn0KCnByaXZhdGUgc3RhdGljIGJ5dGVb
+XSBjb252ZXJ0VG9QS1MxKFByaXZhdGVLZXkgcHJpdikgdGhyb3dzIElPRXhjZXB0aW9uIHsKCQoJ
+Ynl0ZVtdIHByaXZCeXRlcyA9IHByaXYuZ2V0RW5jb2RlZCgpOwoKCVByaXZhdGVLZXlJbmZvIHBr
+SW5mbyA9IFByaXZhdGVLZXlJbmZvLmdldEluc3RhbmNlKHByaXZCeXRlcyk7CglBU04xRW5jb2Rh
+YmxlIGVuY29kYWJsZSA9IHBrSW5mby5wYXJzZVByaXZhdGVLZXkoKTsKCUFTTjFQcmltaXRpdmUg
+cHJpbWl0aXZlID0gZW5jb2RhYmxlLnRvQVNOMVByaW1pdGl2ZSgpOwoJYnl0ZVtdIHByaXZhdGVL
+ZXlQS0NTMSA9IHByaW1pdGl2ZS5nZXRFbmNvZGVkKCk7CgkKCXJldHVybiBwcml2YXRlS2V5UEtD
+UzE7CgkvL3JldHVybiBCYXNlNjQuZ2V0RW5jb2RlcigpLmVuY29kZVRvU3RyaW5nKHByaXZhdGVL
+ZXlQS0NTMSk7CQkKfQoKcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIGNvbnZlcnRUb1BlbShieXRlW10g
+cGtjczFLZXkpIHRocm93cyBJT0V4Y2VwdGlvbiB7CgoJUGVtT2JqZWN0IHBlbU9iamVjdCA9IG5l
+dyBQZW1PYmplY3QoIlJTQSBQUklWQVRFIEtFWSIsIHBrY3MxS2V5KTsKCVN0cmluZ1dyaXRlciBz
+dHJpbmdXcml0ZXIgPSBuZXcgU3RyaW5nV3JpdGVyKCk7CglQZW1Xcml0ZXIgcGVtV3JpdGVyID0g
+bmV3IFBlbVdyaXRlcihzdHJpbmdXcml0ZXIpOwoJcGVtV3JpdGVyLndyaXRlT2JqZWN0KHBlbU9i
+amVjdCk7CglwZW1Xcml0ZXIuY2xvc2UoKTsKCQoJcmV0dXJuIHN0cmluZ1dyaXRlci50b1N0cmlu
+ZygpOwp9</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.io.ByteArrayOutputStream</value>
+    <value>java.io.DataOutputStream</value>
+    <value>java.io.IOException</value>
+    <value>java.io.StringWriter</value>
+    <value>java.security.Key</value>
+    <value>java.security.KeyPair</value>
+    <value>java.security.KeyPairGenerator</value>
+    <value>java.security.NoSuchAlgorithmException</value>
+    <value>java.security.NoSuchProviderException</value>
+    <value>java.security.PrivateKey</value>
+    <value>java.security.SecureRandom</value>
+    <value>java.security.interfaces.RSAPublicKey</value>
+    <value>java.util.Base64</value>
+    <value>org.bouncycastle.asn1.ASN1Encodable</value>
+    <value>org.bouncycastle.asn1.ASN1Primitive</value>
+    <value>org.bouncycastle.asn1.pkcs.PrivateKeyInfo</value>
+    <value>org.bouncycastle.util.io.pem.PemObject</value>
+    <value>org.bouncycastle.util.io.pem.PemWriter</value>
+  </array>
+</Values>

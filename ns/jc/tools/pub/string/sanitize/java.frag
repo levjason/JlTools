@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">sanitize</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUgaW4KCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0
+Q3Vyc29yKCk7ClN0cmluZyB2YWx1ZSA9IElEYXRhVXRpbC5nZXRTdHJpbmcocGlwZWxpbmVDdXJz
+b3IsICJ2YWx1ZSIpOwpTdHJpbmcgZGVmYXVsdFZhbHVlID0gSURhdGFVdGlsLmdldFN0cmluZyhw
+aXBlbGluZUN1cnNvciwgImRlZmF1bHRWYWx1ZSIpOwpTdHJpbmcgbWF4TGVuID0gSURhdGFVdGls
+LmdldFN0cmluZyhwaXBlbGluZUN1cnNvciwgIm1heExlbiIpOwoJCQovLyBwcm9jZXNzIAoKaW50
+IG1heCA9IDA7CgkJCnRyeSB7IG1heCA9IEludGVnZXIucGFyc2VJbnQobWF4TGVuKTsgfSBjYXRj
+aChFeGNlcHRpb24gZSkge30gLy8gZG8gbm93J3QKCQkKaWYgKHZhbHVlID09IG51bGwpIAoJdmFs
+dWUgPSBkZWZhdWx0VmFsdWU7CgppZiAodmFsdWUgIT0gbnVsbCkgewoJCgl2YWx1ZSA9IHZhbHVl
+LnJlcGxhY2VBbGwoIlsvIF9cXC5cXEBcXCFcXCVcXCRcXCNcXF5cXCZcXCpcXChcXCldIiwiLSIp
+Owp9CgovLyBwaXBlbGluZSBvdXQKCQkKSURhdGFVdGlsLnB1dChwaXBlbGluZUN1cnNvciwgInZh
+bHVlIiwgdmFsdWUudG9Mb3dlckNhc2UoKSk7CnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsKCQ==
+</value>
+</Values>

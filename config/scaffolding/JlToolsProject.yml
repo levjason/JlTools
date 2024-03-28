@@ -1,9 +1,0 @@
-version: "1.0"
-info:
-  model: int-scaffold
-packages:
-- name: JlToolsProject
-  gitServerName: gitJl
-  gitUrl: https://github.com/levjason/JlToolsProject
-  gitUsername: levjason
-  gitBranch: main
